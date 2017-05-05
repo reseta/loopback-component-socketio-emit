@@ -1,0 +1,24 @@
+{
+  "name": "loopback-component-socketio-emit",
+  "version": "0.0.1",
+  "description": "SocketIO emitter for loopback",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "loopback",
+    "socket-io"
+  ],
+  "engines": {
+    "node": ">=6.10.2"
+  },
+  "author": "Evgeny Dimitrov",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "4.17.4",
+    "socket.io": "1.7.3",
+    "socketio-auth": "0.1.0",
+    "winston-color": "1.0.0"
+  }
+}
